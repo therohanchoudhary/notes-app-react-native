@@ -6,6 +6,8 @@ import com.facebook.react.ReactActivityDelegate;
 import com.facebook.react.ReactRootView;
 import com.swmansion.gesturehandler.react.RNGestureHandlerEnabledRootView;
 
+import androidx.multidex.MultiDexApplication;
+
 public class MainActivity extends ReactActivity {
 
   /**

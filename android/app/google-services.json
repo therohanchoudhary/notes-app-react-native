@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "870651931976",
+    "project_id": "notes-app-react-native",
+    "storage_bucket": "notes-app-react-native.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870651931976:android:c61d601a1b95457dd4177d",
+        "android_client_info": {
+          "package_name": "com.igniteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870651931976-665fnh7ptsshkfi9uof9j8sqllfa0gjf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.igniteapp",
+            "certificate_hash": "fe37494e10d3aaa119bbbbebb94a999b12f5e08f"
+          }
+        },
+        {
+          "client_id": "870651931976-7uq5ubg3ons8rkapieasljdgmmr5tnoi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDYID-US3TlkVPfNUaViHNSdoeOsKmmjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870651931976-7uq5ubg3ons8rkapieasljdgmmr5tnoi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
